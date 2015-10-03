@@ -1,0 +1,17 @@
+Generate file structure
+If a new folder structure is required, then another name can be entered and it will be created. If part of the folder structure has been deleted or moved accidentally, clicking ‘Generate file structure’ will generate any of the missing files or documents.
+
+Help
+The help button, when clicked, will open up a .txt file giving a similar rundown to what each button and text field does or shows.
+
+Check changes
+The check changes button checks two files for changes between them by checking the last time they were both modified.
+
+Move folders to Source Folder
+This button works similar to the ‘Copy files – working folder’ button, but in reverse. It is used to move files from the working directory back to the source one. It can also be sued to overwrite files in the source folders, though it has a few checks in place to make sure you have the correct file selected.
+
+Show changelog
+Shows the log file with movements of files and folders.
+
+Create release pack
+Creates a zip file of the working folder, containing all the documents and folders that were inside it
